@@ -1,0 +1,23 @@
+
+
+* {
+    color: gray;
+}
+
+.dark-floating:focus {
+    color: red;
+  } 
+
+
+.pattern-array {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width:100%;
+}
+
+.pattern-cell {
+    box-sizing: border-box;
+    padding: 0;
+}
+
